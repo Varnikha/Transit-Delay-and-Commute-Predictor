@@ -1,0 +1,5 @@
+data/merged_2024.csv
+data/ttc-bus-delay-data-2024.xlsx
+.ipynb_checkpoints/
+venv/
+__pycache__/
